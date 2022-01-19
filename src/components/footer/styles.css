@@ -1,0 +1,15 @@
+/*FOOTER*/
+.footer{
+    grid-area: footer;
+    height: 6rem;
+    background-color: rgb(129, 0, 0);
+    color: white;
+    display: flex;
+    justify-content:end;
+    align-items: center;
+  }
+    
+  .footer a{
+    margin-left: 10px;
+    margin-right: 5px;
+  }
